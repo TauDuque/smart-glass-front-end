@@ -1,4 +1,10 @@
 .Tilt {
-    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
-    bottom: 50px;
+  background: ;
+  top: 10px;
+}
+
+.logo-container {
+  top: -130px;
+  width: fit-content;
+  position: relative;
 }
