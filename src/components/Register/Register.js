@@ -42,7 +42,7 @@ class Register extends React.Component {
 
   render() {
     return (
-      <article className="br5 ba b--black-10 mv4 w-100 w-50-m w-25-l mw6 center">
+      <article className="br5 ba b--none mv4 w-100 w-50-m w-25-l mw6 center">
         <main className="full-container pa2 black">
           <div className="measure">
             <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
