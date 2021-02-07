@@ -11,7 +11,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
         <div className="form center pa4 br3">
           <input
             className="f4 pa2 w-70 center"
-            holder="Paste an url from your selected image"
+            placeholder="Paste an url from your selected image"
             type="text"
             onChange={onInputChange}
           />
