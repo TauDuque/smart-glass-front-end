@@ -5,7 +5,12 @@ This project was part of the Zero to Mastery course. This is the front-end of th
 
 |||
 |------------|-------------|
-|<img src="https://github.com/TauDuque/smart-glasses-front-end/blob/master/glasses1.gif" height="300px" width="1420px" />|<img src="https://github.com/TauDuque/smart-glasses-front-end/blob/master/glasses2.gif" height="300px" width="1420px" /> |                                                                    
+|<img src="https://github.com/TauDuque/smart-glasses-front-end/blob/master/glasses1.gif" height="300px" width="1420px" />|<img src="https://github.com/TauDuque/smart-glasses-front-end/blob/master/glasses2.gif" height="300px" width="1420px" /> |    
+
+
+Live demo: https://smart-glasses.herokuapp.com/ <br>
+Back-end: https://github.com/TauDuque/smart-glasses-back-end
+
 
 ## Features 
 <ul>
